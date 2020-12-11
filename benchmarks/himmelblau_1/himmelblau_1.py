@@ -1,8 +1,8 @@
 import sys
 
-sys.path.append("../")
+sys.path.append("../../")
 
-from targets import Himmelblau
+from models import Himmelblau
 from helpers import processing
 import numpy as np
 
